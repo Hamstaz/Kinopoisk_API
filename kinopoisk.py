@@ -2,7 +2,7 @@ import requests
 import json
 import textwrap
 
-token = "ZQQ8GMN-TN54SGK-NB3MKEC-ZKB8V06"
+token = ""
 
 # Загружаем требования к поиску
 with open('config.json', 'r', encoding='utf-8') as f:
