@@ -1,0 +1,15 @@
+{
+   "Search":{
+      "type":"movie",
+      "_comment_type":"Фильмы - movie, Сериалы - tv-series",
+      "year":"1991-1999",
+      "_comment_year":"Год или диапазон лет",
+      "rating": "8.5-10",
+      "_comment_rating":"Диапазон рейтинга"
+   },
+   "Sorting":{
+      "kinopoisk_rating":"1",
+      "release_year":"1",
+      "_comment_sorting":"Сортировка по возрастанию - '1', по убыванию - '-1'"
+   }
+}
